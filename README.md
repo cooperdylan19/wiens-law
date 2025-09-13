@@ -7,4 +7,4 @@ Pen-on-paper differentiation is used to determine the maximum point of Planck's 
 **Figure 1**: Plot of spectral radiance against a dimensionless parameter (defined in .py file). The function has one non-trivial root.
 <br />
 
-An appropriate initial guess would be approximately 5. Knowing there is a root at 0, the initial value can't be too small, or the NRM will solve for that root. 
+An appropriate initial guess would be approximately 5. Knowing there is a root at 0, the initial value can't be too small, or the NRM will solve for that root. After 1000 iterations, the calculated value of Wien's constant has a percentage difference of 0.17% compared to the literature value of 0.002898. 
